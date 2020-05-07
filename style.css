@@ -35,7 +35,6 @@ body {
   background-repeat: no-repeat;
   background-position: left;
 }
-
 .header-email {
   padding-left: 30px;
   background-image: url("img/icon-email.svg");
@@ -45,7 +44,6 @@ body {
   padding-left: 25px;
   background-image: url("img/icon-phone.svg");
 }
-
 .hero-image {
   margin-bottom: 480px;
 }
